@@ -1,0 +1,4 @@
+Definiciones:
+For: Se le da un uso para darle una instruccion de codigo que se ejecuta ciclicamente.
+&&: Se aplica para cuando el positivo solo es valido si todos son positivos
+||: Se aplica cuando solo uno de los condicionantes se quiere que sea suficiente para cumplir ese parametro
